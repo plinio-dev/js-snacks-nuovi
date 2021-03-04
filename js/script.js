@@ -4,7 +4,7 @@
 // e con il while.
 var somma = 0;
 
-for (i=0; i<5; i++) {
+for (i=1; i<5; i++) {
   var numeroUtente = parseInt(prompt("Inserisci un numero"));
   somma += numeroUtente;
 }
